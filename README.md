@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vlop17
 - 👀 I’m interested in techonology, swimming, rock climbing, and mixology!
 - 🌱 I’m currently learning pyhton and SQL
-- 💞️ I’m looking to refresh my coding skills and show off what I kno1
+- 💞️ I’m looking to refresh my coding skills and show off what I know
 - 📫 How to reach me ...
 
 <!---
